@@ -37,11 +37,13 @@ Features
 - Improved Dock
 - Various UI Improvements
 
-Download
+## Download
 
-Get the latest version:
+**Latest Version: v1.0.0**
 
-"Download Trebuchet Mod v1.0.0" (../../releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-Trebuchet_Mod_v1.0-blue?style=for-the-badge&logo=android)](https://github.com/Pancau021/Trebuchet-Mod/releases/latest)
+
+Download the latest Trebuchet Mod APK from GitHub Releases.
 
 Compatibility
 
