@@ -6,7 +6,19 @@ Featuring an enhanced SpringBoard experience, improved UI, additional customizat
 
 Preview
 
-Coming soon...
+## Screenshots
+
+### Classic Mode
+![Classic Mode](screenshots/home_classic.jpg)
+
+### SpringBoard Mode
+![SpringBoard Mode](screenshots/home_springboard.jpg)
+
+### Today View / Widgets Page
+![Today View](screenshots/WidgetsPage_Springboard.jpg)
+
+### Classic App Menu
+![App Menu](screenshots/menu_classic.jpg)
 
 Features
 
